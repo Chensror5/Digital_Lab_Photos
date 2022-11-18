@@ -1,0 +1,25 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 01/13/2022 14:23 (sjfdcl1035) $
+\o Sub version:		sub-version  s233 
+\o Arguments:		-unmapped -mpssession virtuoso32494 -mpshost ip-10-0-189-5.eu-central-1.compute.internal 
+\o Working Directory:	ip-10-0-189-5.eu-central-1.compute.internal:/data/home/cheror96/Digital_Lab_Photos
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Loading customization file "/apps/cadence/IC/6.18.230/tools/dfII/local/cdsLibMgr.il"
+\o changeWorkingDir("/data/home/cheror96/Digital_Lab_Photos") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/data/home/cheror96/Digital_Lab_Photos/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(562 155 602 491))
+\a cdsLibManager->libListBox->value = "Cadence_libs"
+\a cdsLibManager->libLineEdit->value = "Cadence_libs"
+\a cdsLibManager->libListBox->value = "cdsDefTechLib"
+\a cdsLibManager->libLineEdit->value = "cdsDefTechLib"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
