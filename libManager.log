@@ -1,6 +1,6 @@
 \o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 01/13/2022 14:23 (sjfdcl1035) $
 \o Sub version:		sub-version  s233 
-\o Arguments:		-unmapped -mpssession virtuoso32494 -mpshost ip-10-0-189-5.eu-central-1.compute.internal 
+\o Arguments:		-unmapped -mpssession virtuoso6918 -mpshost ip-10-0-189-5.eu-central-1.compute.internal 
 \o Working Directory:	ip-10-0-189-5.eu-central-1.compute.internal:/data/home/cheror96/Digital_Lab_Photos
 \o 64-bit offsets
 \o Qt version: 		5.9.1
@@ -14,10 +14,6 @@
 \o Library Manager customization server connected.
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrResizeWindow(cdsLibManager list(562 155 602 491))
-\a cdsLibManager->libListBox->value = "Cadence_libs"
-\a cdsLibManager->libLineEdit->value = "Cadence_libs"
-\a cdsLibManager->libListBox->value = "cdsDefTechLib"
-\a cdsLibManager->libLineEdit->value = "cdsDefTechLib"
 \a nrSetWindowVisibility(cdsLibManager "hide")
 \a _lmgrCloseIconify("cdsLibManager" 1)
 \o MPS service: shutdown
