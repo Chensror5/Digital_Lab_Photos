@@ -1,0 +1,1588 @@
+{
+    "Name": "Results",
+    "footer": "Created on 14 Dec 2022 14:06:18 by cheror96 (cheror96)",
+    "rows": [
+        [
+            {
+                "background-color": "#B0B0B0",
+                "value": "Point"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Test"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Output"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Nominal"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Spec"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Weight"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Pass/Fail"
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": "Parameters: Beta=2"
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_in"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIL"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.7856
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.039
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOHmin"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.665
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOLmax"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.08767
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NML"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.698
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NMH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.6257
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": "Parameters: Beta=4"
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_in"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIL"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.9073
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.156
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOHmin"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.659
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOLmax"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.0672
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NML"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.8401
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NMH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.5036
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": "Parameters: Beta=6"
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_in"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIL"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.9751
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.214
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOHmin"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.665
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOLmax"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.05364
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NML"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.9214
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 3
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NMH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.4507
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": "Parameters: Beta=8"
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_in"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIL"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.014
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.246
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOHmin"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.673
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOLmax"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.04689
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NML"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.9669
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 4
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NMH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.4265
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": "Parameters: Beta=10"
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_in"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIL"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.045
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VIH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.266
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOHmin"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.677
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "VOLmax"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.0428
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NML"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.002
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 5
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Lab5:Inverter_TB:2"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "NMH"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 0.4113
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+        ]
+    ]
+}
