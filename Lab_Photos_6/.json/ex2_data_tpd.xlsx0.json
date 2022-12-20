@@ -1,0 +1,330 @@
+{
+    "Name": "Results",
+    "footer": "Created on 17 Dec 2022 16:34:01 by cheror96 (cheror96)",
+    "rows": [
+        [
+            {
+                "background-color": "#B0B0B0",
+                "value": "Test"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Output"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Nominal"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Spec"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Weight"
+            },
+            {
+                "background-color": "#B0B0B0",
+                "value": "Pass/Fail"
+            }
+        ],
+        [
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            },
+            {
+                "background-color": "#d3d3d3",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/A"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/B"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "/V_out"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "TPLH_11_to_01"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2.299e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "TPHL_01_to_11"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2.396e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Tpd_01_to_11"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2.347e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "TPHL_10_to_11"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 2.012e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "TPLH_11_to_10"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.65e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+            {
+                "background-color": "#ffffff",
+                "value": "LAB6:NAND2:1"
+            },
+            {
+                "background-color": "#ffffff",
+                "value": "Tpd_10_to_11"
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": 1.831e-11
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            },
+            {
+                "background-color": "#ffffff",
+                "text-align": "center",
+                "value": ""
+            }
+        ],
+        [
+        ]
+    ]
+}
