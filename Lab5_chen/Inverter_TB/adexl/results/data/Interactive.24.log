@@ -1,0 +1,25 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Jan  7 13:26:06 2023 
+Best design point: 1
+Design specs: 
+	Lab5:Inverter_TB:2	corner	Nominal - 
+	VIL		891.5m
+	VIH		1.145
+Design parameters: 
+	V_in_delay		0
+	V_in_fall		100p
+	V_in_high		1.8
+	V_in_low		0
+	V_in_per		100n
+	V_in_rise		100p
+	VDD		1.8
+	C		1p
+	Beta		2
+	V_in		1
+
+Interactive.24
+Number of points completed: 5
+Number of simulation errors: 0
+Interactive.24 completed. 
+Current time: Sat Jan  7 13:26:18 2023 
